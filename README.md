@@ -46,3 +46,10 @@
 GitHub에는 데이터가 포함되지 않습니다.
 
 ---
+
+##  ✅ 결과 시각화
+
+> 항만 작업 = '시간이 금' 이라는 시각으로 개선 진행 비교 결과 시각화
+
+<img width="800" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/82739a7b-9d38-4396-9b16-c8cdcd3edd72" />
+<img width="800" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/32e70f5a-f4f5-4b8a-bade-260af86c973c" />
